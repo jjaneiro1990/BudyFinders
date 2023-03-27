@@ -1,4 +1,4 @@
-package pt.caixamagica.budyfinders
+package pt.caixamagica.budyfinders.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29465988919",
+    "project_id": "budyfinders",
+    "storage_bucket": "budyfinders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29465988919:android:c44410d26fac3ae97194b2",
+        "android_client_info": {
+          "package_name": "pt.caixamagica.budyfinders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29465988919-9dcp7cmg2um9sb6rar56ab5lfqokeqmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIqlXaWjmMMjckudRVMcFWwfkDWfYaFu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29465988919-9dcp7cmg2um9sb6rar56ab5lfqokeqmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
