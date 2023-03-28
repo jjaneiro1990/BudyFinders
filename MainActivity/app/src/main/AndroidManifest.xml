@@ -12,10 +12,14 @@
         android:theme="@style/Theme.MainActivity"
         tools:targetApi="31">
         <activity
-            android:name=".SignUpActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.MainActivity.NoActionBar"
+            android:name=".activities.SignUpActivity"
             android:exported="false" />
         <activity
-            android:name=".SignInActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.MainActivity.NoActionBar"
+            android:name=".activities.SignInActivity"
             android:exported="false" />
         <activity
             android:name=".activities.IntroActivity"
